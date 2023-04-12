@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 api_key = 'YOUR_API_KEY_HERE'
 
 # Set the location for which you want to retrieve the tide data
-location = tidalapi.Location(42.361145, -71.057083)  # Boston, MA
+location = tidalapi.Location(47.608013, -122.335167)  # Seattle, WA
 
 # Initialize the Tidal API client
 client = tidalapi.Client(api_key)
