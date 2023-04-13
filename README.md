@@ -14,8 +14,11 @@ Finally, the script prints out the tide data for each day in the `tide_data` lis
 ## Prerequisites
 To use this script, you need to have `Python 3` installed on your system, as well as the following Python libraries:
 
-* tidalapi
-* pytz
+```
+tidalapi
+pytz
+```
+
 You also need to obtain an API key from Tidal API and set it in the script.
 
 ## Usage
