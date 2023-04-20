@@ -1,4 +1,4 @@
-# Tide Chart Script
+# Conky tide script
 This is a Python script that retrieves and displays the local tide chart for a given location using the `Tidal` API. The script takes a zip code as input and retrieves the tide data for that location. It then displays the date and time of each tide event, whether it is a high or low tide, and the height of the tide in feet.
 
 In this example, you will need to replace `YOUR_API_KEY_HERE` with your actual API key, which you can obtain from the NOAA Tides and Currents website, `https://tidesandcurrents.noaa.gov/tide_predictions.html`. There is no way to access the NOAA's tidal data without an API key. The API key is required to authenticate your requests and ensure that you are authorized to access the data.
@@ -23,3 +23,7 @@ You also need to obtain an API key from Tidal API and set it in the script.
 
 ## Usage
 To run the script, simply execute the `tide_chart.py` file after you have entered the required information into the script code.
+
+## License
+
+This script is released under the [MIT License](LICENSE).
