@@ -26,7 +26,7 @@ To run the script, simply execute the `tide_chart.py` file after you have entere
 
 ## 🤪 Conky Meta
 
-- [888v](https://github.com/apple-fritter/888v): - Virtual webcam clone with Conky overlay; Bash.
+- [888v](https://github.com/apple-fritter/888v): Virtual webcam clone with Conky overlay; Bash.
 - [.conkyrc](https://github.com/apple-fritter/.conkyrc): conky configuration file.
 - [moonphase.py](https://github.com/apple-fritter/conky.moonphase.py): RSS reader for Conky that reads in a TSV based list of feeds. Python.
 - [RTSP-view.py](https://github.com/apple-fritter/conky.RTSP-view.py): Script that displays an RTSP stream. Python.
