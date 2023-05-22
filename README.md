@@ -30,6 +30,16 @@ To run the script, simply execute the `tide_chart.py` file after you have entere
 
 ---
 
+## Example Output
+```
+2023-05-22 00:23:00+00:00 High 10.91
+2023-05-22 06:47:00+00:00 Low 2.34
+2023-05-22 12:39:00+00:00 High 11.99
+2023-05-22 19:12:00+00:00 Low 0.95
+```
+
+---
+
 ## 🤪 Conky Meta
 
 - [888v](https://github.com/apple-fritter/888v): Virtual webcam clone with Conky overlay; Bash.
