@@ -24,10 +24,13 @@ You also need to obtain an API key from Tidal API and set it in the script.
 ## Usage
 To run the script, simply execute the `tide_chart.py` file after you have entered the required information into the script code.
 
-## See also
+## 🤪 Conky Meta
+
+- [888v](https://github.com/apple-fritter/888v): - Virtual webcam clone with Conky overlay; Bash.
 - [.conkyrc](https://github.com/apple-fritter/.conkyrc): conky configuration file.
 - [moonphase.py](https://github.com/apple-fritter/conky.moonphase.py): RSS reader for Conky that reads in a TSV based list of feeds. Python.
 - [RTSP-view.py](https://github.com/apple-fritter/conky.RTSP-view.py): Script that displays an RTSP stream. Python.
+- [tide.py](https://github.com/apple-fritter/conky.tide.py): Script that displays the local tide using the Tidal API. Python.
 - [twitter.py](https://github.com/apple-fritter/conky.twitter.py): Script that displays a user's Twitter notifications. Python.
 
 ## [Disclaimer](DISCLAIMER)
