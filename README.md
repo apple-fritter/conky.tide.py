@@ -11,6 +11,8 @@ The client object is an instance of the `tidalapi.Client` class, which is used t
 
 Finally, the script prints out the tide data for each day in the `tide_data` list. For each tide event, the script displays the `date` and `time`, the `type of tide` (`high` or `low`), and the `height` of the tide in feet.
 
+---
+
 ## Prerequisites
 To use this script, you need to have `Python 3` installed on your system, as well as the following Python libraries:
 
@@ -21,8 +23,12 @@ pytz
 
 You also need to obtain an API key from Tidal API and set it in the script.
 
+---
+
 ## Usage
-To run the script, simply execute the `tide_chart.py` file after you have entered the required information into the script code.
+To run the script, simply execute the `tide_chart.py` file after you have entered the required information into the script code. Saving your .conkyrc while an instance of Conky is running will cause it to restart and execute any properly referenced scripts.
+
+---
 
 ## 🤪 Conky Meta
 
@@ -33,10 +39,14 @@ To run the script, simply execute the `tide_chart.py` file after you have entere
 - [tide.py](https://github.com/apple-fritter/conky.tide.py): Script that displays the local tide using the Tidal API. Python.
 - [twitter.py](https://github.com/apple-fritter/conky.twitter.py): Script that displays a user's Twitter notifications. Python.
 
+---
+
 ## [Disclaimer](DISCLAIMER)
 **This software is provided "as is" and without warranty of any kind**, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 **The authors do not endorse or support any harmful or malicious activities** that may be carried out with the software. It is the user's responsibility to ensure that their use of the software complies with all applicable laws and regulations.
+
+---
 
 ## License
 
